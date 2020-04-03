@@ -3,6 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/DNSKin.iml" filepath="$PROJECT_DIR$/DNSKin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/DNSKin-app.iml" filepath="$PROJECT_DIR$/app/DNSKin-app.iml" group="DNSKin/app" />
+      <module fileurl="file://$PROJECT_DIR$/app_skin/DNSKin-app_skin.iml" filepath="$PROJECT_DIR$/app_skin/DNSKin-app_skin.iml" group="DNSKin/app_skin" />
+      <module fileurl="file://$PROJECT_DIR$/skin-core/DNSKin-skin-core.iml" filepath="$PROJECT_DIR$/skin-core/DNSKin-skin-core.iml" group="DNSKin/skin-core" />
+      <module fileurl="file://$PROJECT_DIR$/Test-DNSKin.iml" filepath="$PROJECT_DIR$/Test-DNSKin.iml" group="DNSKin" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app_skin/app_skin.iml" filepath="$PROJECT_DIR$/app_skin/app_skin.iml" />
       <module fileurl="file://$PROJECT_DIR$/skin-core/skin-core.iml" filepath="$PROJECT_DIR$/skin-core/skin-core.iml" />

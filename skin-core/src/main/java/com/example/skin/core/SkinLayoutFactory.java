@@ -37,7 +37,7 @@ public class SkinLayoutFactory implements LayoutInflater.Factory2, Observer {
     private static final Class<?>[] mConstructorsSignature=new Class[]{Context.class,AttributeSet.class};
 
     private static final HashMap<String, Constructor<? extends View>> sConstructorMap =
-            new HashMap<String, Constructor<? extends View>>();
+            new HashMap<>();
 
     @Override
     public View onCreateView(View parent, String name, Context context, AttributeSet attrs) {
